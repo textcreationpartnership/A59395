@@ -1,0 +1,217 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Several weighty quæries concerning Heraclitus and the Observator in a dialogue betwixt Timothy the corn-cutter and Mr. Scruple</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A59395</idno>
+            <idno type="STC">Wing S2816</idno>
+            <idno type="STC">ESTC R11433</idno>
+            <idno type="EEBO-CITATION">11910515</idno>
+            <idno type="OCLC">ocm 11910515</idno>
+            <idno type="VID">50795</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A59395)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 50795)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 511:40)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Several weighty quæries concerning Heraclitus and the Observator in a dialogue betwixt Timothy the corn-cutter and Mr. Scruple</title>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Mathew Burdid,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Broadside.</note>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in University of Pennsylvania Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>L'Estrange, Roger, --  Sir, 1616-1704. --  Observator in dialogue.</term>
+               <term>Heraclitus ridens.</term>
+               <term>Broadsides --  England --  London --  17th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:50795:1" rendition="simple:additions"/>
+            <head>SEVERAL Weighty Quaeries Concerning <hi>Heraclitus</hi> and the <hi>Obſervator,</hi> IN A DIALOGUE BETWIXT Timothy <hi>the</hi> Corn-Cutter <hi>and Mr.</hi> Scruple.</head>
+            <sp>
+               <speaker>Timothy.</speaker>
+               <p>MR. <hi>Scruple,</hi> Mr. <hi>Scruple,</hi> whither in ſuch haſt, what's that you have got under your Arm in that Green Bag there?</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Scruple.</hi>
+               </speaker>
+               <p>Only a few <hi>Quaeries,</hi> or <hi>Caſes of Conſcience,</hi> that have ſtuck ſo in my Throat theſe three days, I could get nothing down for 'em; and I'le take my Oath, I believe I have tumbled over all Biſhop <hi>Hall's</hi> Caſes, Biſhop <hi>Sanderſon,</hi> Doctor <hi>Hammond,</hi> beſides abun<g ref="char:EOLhyphen"/>dance of Foreign Caſuiſts, and yet not one of 'em touches upon any one parti<g ref="char:EOLhyphen"/>cular Caſe of mine.</p>
+            </sp>
+            <sp>
+               <speaker>Timothy.</speaker>
+               <p>Why prethee, what are they? let's ſee 'um.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Scruple.</hi>
+               </speaker>
+               <p>Why Sir, <hi>firſt,</hi>
+               </p>
+               <p>(1.) Whether <hi>Heraclitus</hi> be a Man or a Woman (as one notably ſuggeſted the other day) he rails ſo much like a <hi>Billings-gate</hi> ſcold.</p>
+               <p>(2.) Whether he be one individual Animal, or that ſeveral Clubb to the pro<g ref="char:EOLhyphen"/>duction of this Monſter, every one ſpitting his Venom till the Baggs full; as once upon a time, all the Gods met and Piſs't in an <hi>Oxes Hide,</hi> for the making that huge Fellow <hi>Orion?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Tim.</speaker>
+               <p>Why, a'y they ſay, there's Lawyers, Divines, Brewers-Clerks, and the Devil an all concern'd in the ſpawning of that Pamphlet.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Scruple.</hi>
+               </speaker>
+               <p>
+                  <hi>Ah Tim:</hi> and thirdly:</p>
+               <p>(3.) Whether that do not evidently appear from the variety, and incoherency of the Stile, and the Frothineſs of it, is not an infallible ſign, that it is wrought off in a Tipling Houſe by theſe Tankard-bearers of <hi>Helicon;</hi> as they ſay, the reaſon of ſo many Monſters in <hi>Africa,</hi> proceeds from the drougth of the Country, and the flocking of Beaſts of different Kinds to one and the ſame Fountain, and their coupling promiſcuouſly?</p>
+               <p>(4.) Whether theſe <hi>Virtuoſo's</hi> Write for Bread or Wine?</p>
+            </sp>
+            <sp>
+               <speaker>Tim.</speaker>
+               <p>Why, to my Knowledg, for all their Noiſe, the poor Rogues are forc't to keep more Faſt-days then the Church enjoyns.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Scruple.</hi>
+               </speaker>
+               <p>(5.) Whether their Raillery and all that be not pick't out of <hi>Poor Robin,</hi> who got an Eſtate and left off, and their Politicks out of Mr. <hi>Hobbs</hi> of the Civil War, and theſe ſtitcht together with the Courſe Thread of <hi>T. B's</hi> Brain, and the buſi<g ref="char:EOLhyphen"/>neſs is done?</p>
+               <p>(6.) Whether he of <hi>Heraclitus's</hi> Gang t'other day deſerv'd to be Hang'd or Drown'd: who when the Secretary to the Cabal ſcrupled the putting in a con<g ref="char:EOLhyphen"/>founded
+<pb n="2" facs="tcp:50795:2" rendition="simple:additions"/>
+Lye, cry'd, <hi>Dam it, in with it, it will make the</hi> Whiggs <hi>ſtare, and ſerve to fill up, at the Woman ſaid, when ſhe Piſs't into the ſea.</hi>
+               </p>
+               <p>(7.) Whether it were ſuch Geeſe as theſe, that ſaved the Capital.</p>
+               <p>(8.) Whether <hi>Coleman</hi> and the <hi>Jeſuites</hi> wan't Fools to theſe two new Champi<g ref="char:EOLhyphen"/>ons, who have ſet up Proteſtant Engliſh Colours in a <hi>Popiſh Privateer;</hi> and un<g ref="char:EOLhyphen"/>der the greateſt pretence of zeal for the Church of <hi>England</hi> have made us loſe the ſcent of the <hi>Popiſh Plot,</hi> and inſtead of that have moſt wonderfully found out another of their own makeing? <hi>Heraclitus</hi> and <hi>Obſervator.</hi>
+               </p>
+               <p>(9.) Whether <hi>Heraclituſ</hi>'s gang be <hi>Atheiſts, Jews, Turks,</hi> or <hi>Infidels?</hi>
+               </p>
+               <p>(10.) Whether that Elegant Phraſe of <hi>Greek-ſpeaking, Hickringil T. B.</hi> and the Taylor's Wife did not call an excellent Joak.</p>
+               <p>(11.) Wether this <hi>Club,</hi> may not one day, come to make a true lovers knot at <hi>Tyburn.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Tim.</speaker>
+               <p>But pray proceed to the <hi>Obſervator.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Scruple,</hi>
+               </speaker>
+               <p>(1.) Whether he had not like to have ſaid his Prayers under the Gallows.</p>
+               <p>(2.) Whether the <hi>Obſervator</hi> ought not to be kept from <hi>Pen, Ink,</hi> and <hi>Paper,</hi> as Mad-men, are from Knives and Sizzars?</p>
+               <p>(3.) Whether the <hi>Obſervator</hi> has not the Throat and Stomach of an <hi>Oſtrich;</hi> he can ſwallow and digiſt ſuch woundy hard lies, and whether any thing can ever Choack him but a Roap?</p>
+            </sp>
+            <sp>
+               <speaker>Tim.</speaker>
+               <p>Ha, ha, ha, that's as pretty a <hi>Quere,</hi> as <hi>Jack Ketch</hi> put to one to'ther day, whether he might with a ſafe Conſcience let <hi>Colledg</hi> Blood this hot weather, or no?</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Scruple,</hi>
+               </speaker>
+               <p>(4.) Whether the <hi>Obſervator</hi> be not a compendium of Law and Politicks.</p>
+            </sp>
+            <sp>
+               <speaker>Tim.</speaker>
+               <p>Why I'le tell you what, I heard a fellow ſay, that he had rather hear the <hi>Obſervater</hi> read once, than <hi>Baxter</hi> Preach 16 times; and another of my acquaintatce was ſo far tranſported with the ſpirit of <hi>Toryiſm,</hi> that he ſaid, he never deſired any more than 3 Books in his Family; the <hi>Bible, Whole Duty of Man,</hi> and the <hi>Obſervator:</hi> Our <hi>Church-Warden</hi> never goes to Church without one in his Pocket, partly as an Antidote againſt <hi>Whiggiſm,</hi> but chiefly to read if the Miniſters ſhould chance to be Dull. Beſides, I've heard, that ſeveral Mi<g ref="char:EOLhyphen"/>niſters of State beyond Sea, have them always conveyed to 'em, by which, as by the <hi>Weather-Glaſs,</hi> they know whether it will be Foul or Fair Weather in <hi>England.</hi>
+               </p>
+               <p>Why a'my Conſcience, they are of as much uſe to the Nation as the <hi>Coco Nut</hi> is to the <hi>Indians,</hi> or the <hi>Palm-Tree</hi> to the <hi>Aegyptains;</hi> of the Branches they make <hi>Bedſteds,</hi> of the Leaves, Fans: Here you have all Law Points diſcours'd, your ratling Metaphors, your <hi>Ginger-Bread</hi> ſimileis, your <hi>Conciſe</hi> and <hi>Flored</hi> Fetches, and Reportees, and as good <hi>Engliſh</hi> Divinity as is to be found in St. <hi>Auſtins,</hi> and for Flaſhy Wit, I'de turn <hi>Towzer</hi> looſe to any Whelp in Chriſtendom; why, as I live and breath, it makes a man fit for any company.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Scruple,</hi>
+               </speaker>
+               <p>But hold, good <hi>Tim.</hi> a word with you:</p>
+               <p>(5.) Whether theſe Vomitings of the <hi>Obſervator,</hi> which he is troubled with twice a Week, do not argue him in a deſperate condition?</p>
+               <p>(6.) Whether <hi>Heraclitus</hi> and the <hi>Obſervator</hi> that Work and Drudge in the <hi>Popiſh Mines,</hi> wont have leaſt of the Oar?</p>
+               <p>(7.) Whether if <hi>Heraclitus</hi> and the <hi>Obſervator,</hi> ſhould meet <hi>Lucian</hi> and <hi>Hobs,</hi> in the other World, they would not ſhake hands together?</p>
+               <p>(8.) Whether that ſtory be true, that the <hi>Obſervator</hi> is ſo intoxicated with his late preſent out of <hi>Cambridge Shire,</hi> that he is going to bind up all his ſheets in Super Royal Paper and preſent them; and that they are to ſtand next to Dr. <hi>Hey<g ref="char:EOLhyphen"/>lins</hi> Hiſtory of <hi>Preſbytery,</hi>
+               </p>
+               <p>(9.) Whether <hi>Sed. Col. Camb:</hi> by ſending the <hi>Obſervator</hi> into the World, have yet fully aton'd for <hi>Oliver Cromwel</hi> who had his education there?</p>
+               <p>But honeſt <hi>Tim.</hi> I am in haſt, and ſo are you, Farewel.</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>LONDON, Printed for <hi>Mathew Burdid,</hi> 1681.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
